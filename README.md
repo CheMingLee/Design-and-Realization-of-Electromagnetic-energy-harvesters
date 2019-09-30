@@ -1,2 +1,2 @@
-# Design-and-Realization-of-Electromagnetic-energy-harvesters
-The thesis of NTU
+資料夾名稱ch6對應到論文的ch5
+使用 python xxx.py 指令即可繪出相對應的實驗與模擬結果

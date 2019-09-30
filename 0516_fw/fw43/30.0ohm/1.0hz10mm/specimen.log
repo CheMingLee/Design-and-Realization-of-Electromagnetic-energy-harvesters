@@ -1,0 +1,9 @@
+(05/16/2018 11:17:34) Information [MPT Runtime] "Procedure Beginning: DSDLab.000"
+(05/16/2018 11:17:34) Information [Stmgr] "Running test"
+(05/16/2018 11:17:34) Information [MPT Runtime] "Running"
+(05/16/2018 11:17:41) Information [MPT Runtime] "Entering Stopped"
+(05/16/2018 11:17:41) Information [Stmgr] "Stopped test"
+(05/16/2018 11:17:42) Information [MPT Runtime] "Stopped
+ Running Time:  00:00:07 
+ Channel Counters:
+    Axial -          7  Cycles"
